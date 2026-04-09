@@ -60,4 +60,4 @@
 
 ---
 
-💾 <i>"Build it. Break it. Secure it. Repeat."</i>
+<i align="center">"💾 Build it. Break it. Secure it. Repeat."</i>
