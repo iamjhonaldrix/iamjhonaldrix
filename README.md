@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Django, Flask for my Backend journey**
 - 🤝 I’m looking for help with my **learning journey in IT / Tech field or in cybersecurity**
 - 👨‍💻 All of my projects are available at [https://myportfolio-zeta-navy.vercel.app/](https://myportfolio-zeta-navy.vercel.app/)
-- 📝 I regularly write articles on [https://app.gitbook.com/o/39He6OzHts53S6ncUJFx/home](https://app.gitbook.com/o/39He6OzHts53S6ncUJFx/home)
+- 📝 I regularly write articles / CTF writeups on [https://b3rl1n.gitbook.io/b3rl1n](https://b3rl1n.gitbook.io/b3rl1n)
 - 📫 How to reach me **jhonaldrix692@gmail.com**
 - ⚡ Fun fact **I think I am funny and also ask a lot of questions when I'm curious and want to learn**
 
