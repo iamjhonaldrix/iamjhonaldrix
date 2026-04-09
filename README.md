@@ -14,7 +14,7 @@
 # 💾 Tech Stack & Skills  
 
 ## 💻 Languages & Frameworks  
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,7 +28,7 @@
 </p>
 
 ## 🖥️ Operating Systems  
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
@@ -42,7 +42,7 @@
 ---
 
 # ⚙️ Tools & Technologies  
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -54,10 +54,10 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://fb.com/jhon aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/jhon_aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 
 ---
 
-<i align="center">"💾 Build it. Break it. Secure it. Repeat."</i>
+<h3 align="center">"💾 Build it. Break it. Secure it. Repeat."</h3>
