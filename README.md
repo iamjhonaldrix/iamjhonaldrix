@@ -56,17 +56,16 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
   <a href="https://fb.com/jhonaldrix" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a> <br />
   <a href="https://instagram.com/jhon_aldrix" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a><br />
   <a href="https://b3rl1n.gitbook.io/b3rl1n/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitBook-Documentation-blue?style=for-the-badge&logo=gitbook" height="30" />
+    <img src="https://img.shields.io/badge/GitBook-blue?style=for-the-badge&logo=gitbook" height="30" />
   </a>
 </p>
 
