@@ -1,11 +1,11 @@
 
-<h1 align="center">Yow! Welcome to b3rl1n's Github!</h1>
+<h1 align="center">Yow! Welcome to b3rl1n's Github not BERL1N in Germany!</h1>
 
 <h2>About Me</h2>
-<h5 align="center">Passionate Web Developer 💻 and Cybersecurity Enthusiast 🔐 who loves building secure, scalable, and user-friendly applications. I enjoy turning ideas into real-world solutions, exploring modern technologies, and sharpening my skills through Capture The Flag (CTF) challenges 🏴‍☠️—constantly learning ethical hacking, system security, and full-stack development to create impactful digital experiences.</h5>
+<p align="left">I’m an IT student at PUP Santa Maria Campus passionate about web development and cybersecurity. I learning to develop secure and scalable web applications while turning ideas into functional systems. I am eager to understand systems and networks in depth and able to communicate to computer clearly and effectively. Through Capture The Flag (CTF) challenges, I continuously sharpen my skills in ethical hacking, system security, and full-stack development to build impactful digital solutions.</p>
 
 - 🌱 I’m currently learning **Django, Flask for my Backend journey**
-- 🤝 I’m looking for help with my **learning journey in IT / Tech field or in cybersecurity**
+- 🤝 I’m looking for help / assistant with my **learning journey in IT / Tech field or in cybersecurity**
 - 👨‍💻 All of my projects are available at [https://myportfolio-zeta-navy.vercel.app/](https://myportfolio-zeta-navy.vercel.app/)
 - 📝 I regularly write articles / CTF writeups on [https://b3rl1n.gitbook.io/b3rl1n](https://b3rl1n.gitbook.io/b3rl1n)
 - 📫 How to reach me **jhonaldrix692@gmail.com**
@@ -44,7 +44,7 @@
 ---
 
 # ⚙️ Tools & Technologies  
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -57,9 +57,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/jhon aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/jhon_aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-
+  <a href="https://fb.com/jhon aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/jhon_aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
 ---
 
 <h3 align="center">"💾 Build it. Break it. Secure it. Repeat."</h3>
