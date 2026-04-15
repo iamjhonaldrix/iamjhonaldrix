@@ -1,6 +1,8 @@
 
 <h1 align="center">Yow! Welcome to b3rl1n's Github!</h1>
-<h3 align="center">Passionate Web Developer 💻 and Cybersecurity Enthusiast 🔐 who loves building secure, scalable, and user-friendly applications. I enjoy turning ideas into real-world solutions, exploring modern technologies, and sharpening my skills through Capture The Flag (CTF) challenges 🏴‍☠️—constantly learning ethical hacking, system security, and full-stack development to create impactful digital experiences.</h3>
+
+<h2>About Me</h2>
+<h5 align="center">Passionate Web Developer 💻 and Cybersecurity Enthusiast 🔐 who loves building secure, scalable, and user-friendly applications. I enjoy turning ideas into real-world solutions, exploring modern technologies, and sharpening my skills through Capture The Flag (CTF) challenges 🏴‍☠️—constantly learning ethical hacking, system security, and full-stack development to create impactful digital experiences.</h5>
 
 - 🌱 I’m currently learning **Django, Flask for my Backend journey**
 - 🤝 I’m looking for help with my **learning journey in IT / Tech field or in cybersecurity**
