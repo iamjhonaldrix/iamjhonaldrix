@@ -36,10 +36,10 @@
 </p>
 
 ## 🔬 Specializations  
-💥 <b>Web Security</b> – XSS, SQL Injection, authentication flaws, secure coding  
-🏴‍☠️ <b>CTF Player</b> – Solving challenges to improve hacking & problem-solving skills  
-🌐 <b>Full-Stack Development</b> – React + Flask + database systems  
-🧱 <b>Linux & System Skills</b> – Terminal usage, scripting, file & process management  
+💥 <b>Web Security</b> 
+🏴‍☠️ <b>CTF Player</b> 
+🌐 <b>Full-Stack Development</b> 
+🧱 <b>Linux & System Skills</b> 
 
 ---
 
@@ -57,7 +57,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://fb.com/jhon aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/jhon aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a><br />
   <a href="https://instagram.com/jhon_aldrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 ---
