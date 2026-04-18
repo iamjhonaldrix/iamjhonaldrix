@@ -1,5 +1,5 @@
 
-<h1 align="center">Yow! Welcome to b3rl1n's Github not BERL1N in Germany!</h1>
+<h1 align="center">Yow! Welcome to b3rl1n's Github not BERLIN in Germany!</h1>
 
 <h2>About Me</h2>
 <p align="left">I’m an IT student at PUP Santa Maria Campus passionate about web development and cybersecurity. I'm currently learning to develop secure and scalable web applications while turning ideas into functional systems. I am eager to understand systems and networks in depth and able to communicate to computer clearly and effectively. Through Capture The Flag (CTF) challenges, I continuously sharpen my skills in ethical hacking, system security, and full-stack development to build impactful digital solutions.</p>
