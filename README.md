@@ -1,5 +1,5 @@
 
-<h1 align="center">Yow! Welcome to b3rl1n's Github not BERLIN in Germany!</h1>
+<h1 align="center">HEY It's b3rl1n!</h1>
 
 <h2>About Me</h2>
 <p align="left">I’m an IT student at PUP Santa Maria Campus passionate about web development and cybersecurity. I'm currently learning to develop secure and scalable web applications while turning ideas into functional systems. I am eager to understand systems and networks in depth and able to communicate to computer clearly and effectively. Through Capture The Flag (CTF) challenges, I continuously sharpen my skills in ethical hacking, system security, and full-stack development to build impactful digital solutions.</p>
@@ -54,14 +54,20 @@
 
 ---
 
+# Badges
+
+<img width="50" height="50" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/15623619-0e75-403f-9c02-0a95959cc3f6" />
+
+---
+
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
   <a href="https://fb.com/jhonaldrix" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
   </a> <br />
   <a href="https://instagram.com/jhon_aldrix" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a><br />
   <a href="https://b3rl1n.gitbook.io/b3rl1n/" target="blank">
     <img src="https://img.shields.io/badge/GitBook-blue?style=for-the-badge&logo=gitbook" height="30" />
