@@ -52,14 +52,12 @@
 ---
 
 # Badges
-<ul>
-  <li>
-    <img width="60" height="60" alt="Python Essentials 1 Certificate" 
-         src="https://github.com/user-attachments/assets/15623619-0e75-403f-9c02-0a95959cc3f6" />
-    <img width="60" height="60" alt="Introduction to Cybersecurity Certificate" 
-         src="https://github.com/user-attachments/assets/7434e8a2-52bf-4840-ac10-2e1fb8057839" />
-  </li>
-</ul>
+<table>
+  <tr>
+    <td><img width="60" height="60" alt="Python Essentials 1 Certificate" src="https://github.com/user-attachments/assets/15623619-0e75-403f-9c02-0a95959cc3f6" /></td>
+    <td><img width="60" height="60" alt="Introduction to Cybersecurity Certificate" src="https://github.com/user-attachments/assets/7434e8a2-52bf-4840-ac10-2e1fb8057839" /></td>
+  </tr>
+</table>
 
 <h3 align="left">🌐 Connect with me:</h3>
 
