@@ -54,8 +54,8 @@
 # Badges
 
 <img width="50" height="50" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/15623619-0e75-403f-9c02-0a95959cc3f6" />
+<img width="600" height="600" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/7434e8a2-52bf-4840-ac10-2e1fb8057839" />
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 
