@@ -4,12 +4,12 @@
 <h2>About Me</h2>
 <p align="left">I’m an IT student at PUP Santa Maria Campus passionate about web development and cybersecurity. I'm currently learning to develop secure and scalable web applications while turning ideas into functional systems. I am eager to understand systems and networks in depth and able to communicate to computer clearly and effectively. Through Capture The Flag (CTF) challenges, I continuously sharpen my skills in ethical hacking, system security, and full-stack development to build impactful digital solutions.</p>
 
-- 🌱 I’m currently learning **Django, Flask for my Backend journey**
-- 🤝 I’m looking for help / assistant with my **learning journey in IT / Tech field or in cybersecurity**
+- 🌱 I’m currently learning **CTF**
+- 🤝 I’m looking for help / assistant with my **learning journey in Tech field / cybersecurity**
 - 👨‍💻 Learn more about me [https://www.jhonaldrixbernil.dev/](https://www.jhonaldrixbernil.dev/)
 - 📝 I regularly write articles / CTF writeups on [https://b3rl1n.gitbook.io/b3rl1n](https://b3rl1n.gitbook.io/b3rl1n)
 - 📫 How to reach me **jhonaldrix692@gmail.com**
-- ⚡ Fun fact **I think I am funny and also ask a lot of questions when I'm curious and want to learn**
+- ⚡ Fun fact **I think I am funny but ask a lot of questions when I'm curious and want to learn**
 
 ---
 
